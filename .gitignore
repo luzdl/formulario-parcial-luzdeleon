@@ -1,0 +1,34 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs y editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos temporales de PHP
+*.log
+*.tmp
+*.temp
+
+# Archivos de configuración local (NO subir credenciales)
+# config/Database.php
+
+# Carpetas de dependencias (si usas Composer)
+vendor/
+composer.phar
+composer.lock
+
+# Archivos de backup
+*.bak
+*.backup
+*~
+
+# Archivos de Windows
+*.lnk
+
+# Archivos generados
+*.cache
